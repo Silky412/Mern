@@ -5,6 +5,9 @@ const Add = () => {
   const addfunc = ()=>{
     return null
   }
+  const addfunc2 = ()=>{
+    return null
+  }
   return (
     <Fragment>
       <AddStudent />
