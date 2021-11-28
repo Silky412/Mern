@@ -2,6 +2,9 @@ import React, { Fragment } from 'react';
 import AddStudent from '../../components/AddStudent/AddStudent';
 
 const Add = () => {
+  const addfunc = ()=>{
+    return null
+  }
   return (
     <Fragment>
       <AddStudent />
